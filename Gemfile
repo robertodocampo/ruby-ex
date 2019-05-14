@@ -1,3 +1,3 @@
-source 'http://packages.abanca.com/pypi/python/'
+source 'http://packages.abanca.com/rubygems/sistemasx/'
 gem 'rack'
 gem 'puma'
